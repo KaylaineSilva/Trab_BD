@@ -8,15 +8,6 @@ Este repositório contém todos os scripts SQL utilizados no projeto de banco de
 - pgAdmin 4
 - Navegador Web para acessar o pgAdmin
 
-## Estrutura do Repositório
-├── scripts/
-│ ├── 1_criacao_tabelas.sql
-│ ├── 2_insercoes_iniciais.sql
-│ ├── 3_consultas.sql
-│ └── 4_indices.sql
-├── README.md
-
-
 ## Passo a Passo para Executar
 
 ### 1. Instalar o PostgreSQL e o pgAdmin
@@ -44,8 +35,7 @@ Você pode baixar e instalar a partir dos links:
 Execute as consultas localizadas no fim do arquivo `base_trab_final.sql`. 
 
 ## Equipe
-
-Giovanna Lopes de Andrade - 14574772
-Julia de Almeida Carvalho - 13713184
-Kaylaine Bessa da Silva - 14747506
-Roberto Spíndola Abrenhosa Filho - 14748960
+- Giovanna Lopes de Andrade - 14574772
+- Julia de Almeida Carvalho - 13713184
+- Kaylaine Bessa da Silva - 14747506
+- Roberto Spíndola Abrenhosa Filho - 14748960
