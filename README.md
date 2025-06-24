@@ -6,7 +6,6 @@ Este repositório contém todos os scripts SQL utilizados no projeto de banco de
 
 - PostgreSQL (versão 13 ou superior recomendada)
 - pgAdmin 4
-- Navegador Web para acessar o pgAdmin
 
 ## Passo a Passo para Executar
 
