@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento Acadêmico
+# Trabalho Final de Base de Dados
 
 Este repositório contém todos os scripts SQL utilizados no projeto de banco de dados, desenvolvidos em PostgreSQL e gerenciados com pgAdmin 4.
 
